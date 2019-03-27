@@ -4,13 +4,13 @@
 
 定義各群組分別的權限內容
 
-![](https://github.com/lifecomService/LifeERP_manuals/tree/c5f5cca33bca11311bde6512cab215b123ef8fd0/.gitbook/assets/image%20%2828%29.png)
+![](../.gitbook/assets/image-28.png)
 
 勾選選擇群組可使用的功能權限
 
-![](https://github.com/lifecomService/LifeERP_manuals/tree/c5f5cca33bca11311bde6512cab215b123ef8fd0/.gitbook/assets/image%20%28156%29.png)
+![](../.gitbook/assets/image-156.png)
 
 點擊權限修改
 
-![](https://github.com/lifecomService/LifeERP_manuals/tree/c5f5cca33bca11311bde6512cab215b123ef8fd0/.gitbook/assets/image%20%2898%29.png)
+![](../.gitbook/assets/image-98.png)
 
