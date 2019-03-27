@@ -2,7 +2,7 @@
 
 商品管理→類別管理→新增類別→儲存→查詢
 
-![](https://github.com/lifecomService/LifeERP_manuals/tree/c5f5cca33bca11311bde6512cab215b123ef8fd0/.gitbook/assets/image%20%28130%29.png)
+![](../.gitbook/assets/image-130.png)
 
 輸入相關資料，點選新增。
 
