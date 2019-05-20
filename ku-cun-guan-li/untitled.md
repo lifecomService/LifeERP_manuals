@@ -16,7 +16,5 @@
 
 點擊名稱可進入修改相關資訊
 
-![](../.gitbook/assets/17.png)
-
 ![](../.gitbook/assets/image-80.png)
 
