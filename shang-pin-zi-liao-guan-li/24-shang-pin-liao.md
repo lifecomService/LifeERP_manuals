@@ -66,17 +66,17 @@ id：無須填寫，程式會自定義
 
 安全庫存：商品的安全庫存，若是訂單庫存低於此安全庫存，即可出現於缺貨採購
 
-![](https://github.com/lifecomService/LifeERP_manuals/tree/c5f5cca33bca11311bde6512cab215b123ef8fd0/.gitbook/assets/image%20%2856%29.png)
+![](../.gitbook/assets/image-56.png)
 
 檔案建立完成後點擊上傳。
 
 上傳後檢視上傳資料
 
-![](https://github.com/lifecomService/LifeERP_manuals/tree/c5f5cca33bca11311bde6512cab215b123ef8fd0/.gitbook/assets/image%20%2825%29.png)
+![](../.gitbook/assets/image-25.png)
 
 點擊全部轉入或勾選欲上傳的商品資料
 
-![](https://github.com/lifecomService/LifeERP_manuals/tree/c5f5cca33bca11311bde6512cab215b123ef8fd0/.gitbook/assets/image%20%2859%29.png)
+![](../.gitbook/assets/image-59.png)
 
 點擊執行。
 
