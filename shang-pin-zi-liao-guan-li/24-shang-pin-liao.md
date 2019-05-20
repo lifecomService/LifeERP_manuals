@@ -2,7 +2,7 @@
 
 商品管理→商品資料批次異動→上傳檔案→暫存表資料確認→執行轉入→查詢
 
-![](https://github.com/lifecomService/LifeERP_manuals/tree/c5f5cca33bca11311bde6512cab215b123ef8fd0/.gitbook/assets/image%20%28140%29.png)
+![](../.gitbook/assets/image-140.png)
 
 下載範例
 
