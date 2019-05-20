@@ -2,15 +2,15 @@
 
 商品管理→商品資料批次異動→上傳檔案→暫存表資料確認→執行轉入→查詢
 
-![](https://github.com/lifecomService/LifeERP_manuals/tree/c5f5cca33bca11311bde6512cab215b123ef8fd0/.gitbook/assets/image%20%2865%29.png)
+![](../.gitbook/assets/image-65.png)
 
-![](https://github.com/lifecomService/LifeERP_manuals/tree/c5f5cca33bca11311bde6512cab215b123ef8fd0/.gitbook/assets/image%20%2823%29.png)
-
-![](https://github.com/lifecomService/LifeERP_manuals/tree/c5f5cca33bca11311bde6512cab215b123ef8fd0/.gitbook/assets/image%20%2813%29.png)
+![](../.gitbook/assets/image-23.png)
 
 ![](https://github.com/lifecomService/LifeERP_manuals/tree/c5f5cca33bca11311bde6512cab215b123ef8fd0/.gitbook/assets/image%20%2872%29.png)
 
-![](https://github.com/lifecomService/LifeERP_manuals/tree/c5f5cca33bca11311bde6512cab215b123ef8fd0/.gitbook/assets/image%20%28193%29.png)
+![](../.gitbook/assets/image-72.png)
+
+![](../.gitbook/assets/image-193.png)
 
 ![](https://github.com/lifecomService/LifeERP_manuals/tree/c5f5cca33bca11311bde6512cab215b123ef8fd0/.gitbook/assets/image%20%2819%29.png)
 
