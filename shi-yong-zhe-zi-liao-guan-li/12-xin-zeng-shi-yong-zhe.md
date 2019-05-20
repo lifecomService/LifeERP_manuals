@@ -6,11 +6,7 @@
 
 ![](../.gitbook/assets/image-28.png)
 
-勾選選擇群組可使用的功能權限
+![](../.gitbook/assets/1.png)
 
-![](../.gitbook/assets/image-156.png)
-
-點擊權限修改
-
-![](../.gitbook/assets/image-98.png)
+![](../.gitbook/assets/2.png)
 
