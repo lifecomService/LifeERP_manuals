@@ -2,23 +2,13 @@
 
 商品管理→組合商品批次上傳→上傳檔案→暫存表資料確認→執行轉入→組合商品對應查詢
 
-![](https://github.com/lifecomService/LifeERP_manuals/tree/c5f5cca33bca11311bde6512cab215b123ef8fd0/.gitbook/assets/image%20%28159%29.png)
-
-![](https://github.com/lifecomService/LifeERP_manuals/tree/c5f5cca33bca11311bde6512cab215b123ef8fd0/.gitbook/assets/image%20%2810%29.png)
-
-![](https://github.com/lifecomService/LifeERP_manuals/tree/c5f5cca33bca11311bde6512cab215b123ef8fd0/.gitbook/assets/image%20%2894%29.png)
-
-![](https://github.com/lifecomService/LifeERP_manuals/tree/c5f5cca33bca11311bde6512cab215b123ef8fd0/.gitbook/assets/image%20%2867%29.png)
-
-![](https://github.com/lifecomService/LifeERP_manuals/tree/c5f5cca33bca11311bde6512cab215b123ef8fd0/.gitbook/assets/image%20%283%29.png)
-
-![](https://github.com/lifecomService/LifeERP_manuals/tree/c5f5cca33bca11311bde6512cab215b123ef8fd0/.gitbook/assets/image%20%2812%29.png)
+![](../.gitbook/assets/image-159.png)
 
 ＊組合商品批次上傳範例檔說明
 
 Ex:聖誕禮盒組\(A001\)=毛衣洋裝\(B001\)x1+褲襪\(C001\)x2
 
-![](https://github.com/lifecomService/LifeERP_manuals/tree/c5f5cca33bca11311bde6512cab215b123ef8fd0/.gitbook/assets/image%20%28117%29.png)
+![](../.gitbook/assets/image-117.png)
 
 association\_products\_id：無須填寫，程式會自定義
 
@@ -34,5 +24,14 @@ insert\_time：無須填寫，程式會自定義
 
 Status：00
 
-價格：無須填寫
+價格：無須填寫  
+
+
+查詢已建立組合商品
+
+![](../.gitbook/assets/image-94.png)
+
+![](../.gitbook/assets/image-67.png)
+
+
 
