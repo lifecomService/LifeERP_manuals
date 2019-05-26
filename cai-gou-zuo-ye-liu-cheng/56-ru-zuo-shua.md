@@ -2,11 +2,11 @@
 
 採購管理&gt;入庫作業\_條碼刷讀&gt;刷讀商品條碼&gt;驗收入庫&gt;入庫數量更新→結案
 
-![](https://github.com/lifecomService/LifeERP_manuals/tree/c5f5cca33bca11311bde6512cab215b123ef8fd0/.gitbook/assets/image%20%2831%29.png)
+![](../.gitbook/assets/image-31.png)
 
-![](https://github.com/lifecomService/LifeERP_manuals/tree/c5f5cca33bca11311bde6512cab215b123ef8fd0/.gitbook/assets/image%20%28170%29.png)
+![](../.gitbook/assets/image-170.png)
 
-![](https://github.com/lifecomService/LifeERP_manuals/tree/c5f5cca33bca11311bde6512cab215b123ef8fd0/.gitbook/assets/image%20%2848%29.png)
+![](../.gitbook/assets/image-48.png)
 
 ＊採購狀態說明
 
