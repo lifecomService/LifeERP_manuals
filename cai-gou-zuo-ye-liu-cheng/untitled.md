@@ -2,13 +2,15 @@
 
 採購管理→採購檔案上傳→上傳檔案→暫存表資料確認→執行轉入→查詢
 
-![](https://github.com/lifecomService/LifeERP_manuals/tree/c5f5cca33bca11311bde6512cab215b123ef8fd0/.gitbook/assets/image%20%2837%29.png)
+![](../.gitbook/assets/image-37.png)
 
-![](https://github.com/lifecomService/LifeERP_manuals/tree/c5f5cca33bca11311bde6512cab215b123ef8fd0/.gitbook/assets/image%20%2899%29.png)
+![](../.gitbook/assets/image-99.png)
 
-![](https://github.com/lifecomService/LifeERP_manuals/tree/c5f5cca33bca11311bde6512cab215b123ef8fd0/.gitbook/assets/image%20%282%29.png)
+查詢上傳結果
 
-![](https://github.com/lifecomService/LifeERP_manuals/tree/c5f5cca33bca11311bde6512cab215b123ef8fd0/.gitbook/assets/image%20%28180%29.png)
+![](../.gitbook/assets/image-180.png)
 
-![](https://github.com/lifecomService/LifeERP_manuals/tree/c5f5cca33bca11311bde6512cab215b123ef8fd0/.gitbook/assets/image%20%2830%29.png)
+採購單明細
+
+![](../.gitbook/assets/image-30.png)
 

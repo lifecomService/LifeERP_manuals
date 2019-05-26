@@ -4,15 +4,15 @@
 
 採購管理&gt;缺貨採購作業&gt;缺貨採購列表數量確認→成立採購單&gt;採購單查詢
 
-![](https://github.com/lifecomService/LifeERP_manuals/tree/c5f5cca33bca11311bde6512cab215b123ef8fd0/.gitbook/assets/image%20%28111%29.png)
+![](../.gitbook/assets/image-111.png)
 
-![](https://github.com/lifecomService/LifeERP_manuals/tree/c5f5cca33bca11311bde6512cab215b123ef8fd0/.gitbook/assets/image%20%2833%29.png)
+![](../.gitbook/assets/image-33.png)
 
 選擇完畢執行轉入
 
-查詢
+查詢採購單建立結果
 
-![](https://github.com/lifecomService/LifeERP_manuals/tree/c5f5cca33bca11311bde6512cab215b123ef8fd0/.gitbook/assets/image%20%2814%29.png)
+![](../.gitbook/assets/image-137.png)
 
-![](https://github.com/lifecomService/LifeERP_manuals/tree/c5f5cca33bca11311bde6512cab215b123ef8fd0/.gitbook/assets/image%20%28137%29.png)
+
 
