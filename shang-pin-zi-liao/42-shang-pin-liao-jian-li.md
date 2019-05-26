@@ -38,7 +38,7 @@ id：無須填寫，程式會自定義
 
 處理狀態：**必填欄位**，程式判別的更新狀態，定義如下
 
-![](https://github.com/lifecomService/LifeERP_manuals/tree/c5f5cca33bca11311bde6512cab215b123ef8fd0/.gitbook/assets/image%20%2836%29.png)
+![](../.gitbook/assets/image-36.png)
 
 建檔日期：此商品建檔的日期  
 業務姓名：此商品負責的業務  
