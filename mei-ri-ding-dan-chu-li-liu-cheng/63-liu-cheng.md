@@ -4,13 +4,13 @@
 
 原訂單→待貨物寄回倉庫→採購/退貨入庫作業
 
-![](https://github.com/lifecomService/LifeERP_manuals/tree/c5f5cca33bca11311bde6512cab215b123ef8fd0/.gitbook/assets/image%20%28123%29.png)
+![](../.gitbook/assets/image-123.png)
 
-![](https://github.com/lifecomService/LifeERP_manuals/tree/c5f5cca33bca11311bde6512cab215b123ef8fd0/.gitbook/assets/image%20%2861%29.png)
+![](../.gitbook/assets/image-61.png)
 
 A商品更換成B商品→成立換貨訂單\(新訂單\)
 
-![](https://github.com/lifecomService/LifeERP_manuals/tree/c5f5cca33bca11311bde6512cab215b123ef8fd0/.gitbook/assets/image%20%28146%29.png)
+![](../.gitbook/assets/image-146.png)
 
 ![](https://github.com/lifecomService/LifeERP_manuals/tree/c5f5cca33bca11311bde6512cab215b123ef8fd0/.gitbook/assets/image%20%2862%29.png)
 
