@@ -6,13 +6,11 @@
 
 ![](../.gitbook/assets/image-23.png)
 
-![](https://github.com/lifecomService/LifeERP_manuals/tree/c5f5cca33bca11311bde6512cab215b123ef8fd0/.gitbook/assets/image%20%2872%29.png)
+查詢是否建立成功
 
 ![](../.gitbook/assets/image-72.png)
 
 ![](../.gitbook/assets/image-193.png)
-
-![](https://github.com/lifecomService/LifeERP_manuals/tree/c5f5cca33bca11311bde6512cab215b123ef8fd0/.gitbook/assets/image%20%2819%29.png)
 
 商品資料批次異動範例檔說明
 
