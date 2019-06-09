@@ -4,5 +4,5 @@
 
 已開立的發票，如有進行作廢，即可於此區查詢。
 
-![](https://github.com/lifecomService/LifeERP_manuals/tree/c5f5cca33bca11311bde6512cab215b123ef8fd0/.gitbook/assets/image%20%28118%29.png)
+![](../.gitbook/assets/941.png)
 
