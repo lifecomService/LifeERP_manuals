@@ -1,6 +1,6 @@
 # 9-5 電子發票作廢/折讓流程
 
-![](https://github.com/lifecomService/LifeERP_manuals/tree/c5f5cca33bca11311bde6512cab215b123ef8fd0/.gitbook/assets/image%20%28106%29.png)
+![](../.gitbook/assets/951.png)
 
 成功作廢or折讓的發票即會透過排程自動更新
 
