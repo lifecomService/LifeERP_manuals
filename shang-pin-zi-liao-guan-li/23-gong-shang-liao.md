@@ -12,9 +12,9 @@
 
 點擊供應商可進入修改
 
-![](../.gitbook/assets/17.png)
+![](../.gitbook/assets/17%20%281%29.png)
 
 
 
-![](../.gitbook/assets/18.png)
+![](../.gitbook/assets/18%20%281%29.png)
 
