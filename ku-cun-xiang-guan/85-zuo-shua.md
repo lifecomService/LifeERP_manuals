@@ -2,21 +2,21 @@
 
 庫存管理→盤點作業\_刷讀→上傳盤點資料→產出差異報表→倉庫實際複盤→調整帳差\(商品出庫/商品入庫\)
 
-![](https://github.com/lifecomService/LifeERP_manuals/tree/c5f5cca33bca11311bde6512cab215b123ef8fd0/.gitbook/assets/image%20%28174%29.png)
+![](../.gitbook/assets/85.png)
 
-![](https://github.com/lifecomService/LifeERP_manuals/tree/c5f5cca33bca11311bde6512cab215b123ef8fd0/.gitbook/assets/image%20%2827%29.png)
+![](../.gitbook/assets/85-1.png)
 
-![](https://github.com/lifecomService/LifeERP_manuals/tree/c5f5cca33bca11311bde6512cab215b123ef8fd0/.gitbook/assets/image%20%2893%29.png)
+![](../.gitbook/assets/85-2.png)
 
 上傳盤點資料
 
-![](https://github.com/lifecomService/LifeERP_manuals/tree/c5f5cca33bca11311bde6512cab215b123ef8fd0/.gitbook/assets/image%20%2883%29.png)
+![](../.gitbook/assets/85-3.png)
 
-![](https://github.com/lifecomService/LifeERP_manuals/tree/c5f5cca33bca11311bde6512cab215b123ef8fd0/.gitbook/assets/image%20%28148%29.png)
+![](../.gitbook/assets/85-4.png)
 
-![](https://github.com/lifecomService/LifeERP_manuals/tree/c5f5cca33bca11311bde6512cab215b123ef8fd0/.gitbook/assets/image%20%28184%29.png)
+![](../.gitbook/assets/85-5.png)
 
-![](https://github.com/lifecomService/LifeERP_manuals/tree/c5f5cca33bca11311bde6512cab215b123ef8fd0/.gitbook/assets/image%20%28122%29.png)
+![](../.gitbook/assets/85-6.png)
 
 盤點資料比對全庫存
 
@@ -32,13 +32,13 @@
 
 盤盈→商品入庫
 
-![](https://github.com/lifecomService/LifeERP_manuals/tree/c5f5cca33bca11311bde6512cab215b123ef8fd0/.gitbook/assets/image%20%28160%29.png)
+![](../.gitbook/assets/85-7.png)
 
-![](https://github.com/lifecomService/LifeERP_manuals/tree/c5f5cca33bca11311bde6512cab215b123ef8fd0/.gitbook/assets/image%20%284%29.png)
+![](../.gitbook/assets/85-8.png)
 
 盤虧→商品出庫
 
-![](https://github.com/lifecomService/LifeERP_manuals/tree/c5f5cca33bca11311bde6512cab215b123ef8fd0/.gitbook/assets/image%20%28189%29.png)
+![](../.gitbook/assets/85-9.png)
 
-![](https://github.com/lifecomService/LifeERP_manuals/tree/c5f5cca33bca11311bde6512cab215b123ef8fd0/.gitbook/assets/image%20%28173%29.png)
+![](../.gitbook/assets/85-10.png)
 
