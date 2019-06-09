@@ -8,11 +8,11 @@ B2B電子發票證明聯列印
 
 如平台端有提供mail至LifeERP，LifeERP會將此電子郵件資訊拋送給E首發票平台，當發票開立完成時，會自動發送發票開立成功的通知信給消費者，消費者即可透過Mail的連結，查看電子發票證明聯，並可自行下載。
 
-![](https://github.com/lifecomService/LifeERP_manuals/tree/c5f5cca33bca11311bde6512cab215b123ef8fd0/.gitbook/assets/image%20%2863%29.png)
+![](../.gitbook/assets/961.png)
 
 1. 店家於平台後台下載pdf mail給消費者
 
-![](https://github.com/lifecomService/LifeERP_manuals/tree/c5f5cca33bca11311bde6512cab215b123ef8fd0/.gitbook/assets/image%20%2855%29.png)
+![](../.gitbook/assets/962.png)
 
 1. 消費者自行登入財政部發票整合平台登入查看\(有申請帳號才可行\)
 
@@ -20,7 +20,7 @@ B2B電子發票證明聯列印
 
 買方營業人透過進項發票查詢。
 
-![](https://github.com/lifecomService/LifeERP_manuals/tree/c5f5cca33bca11311bde6512cab215b123ef8fd0/.gitbook/assets/image%20%289%29.png)
+![](../.gitbook/assets/963.png)
 
 B2C電子發票證明聯列印
 
